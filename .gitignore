@@ -1,0 +1,6 @@
+# ignore all files starting with .
+.*
+
+# Track .env example
+!.env.example
+!.gitignore
