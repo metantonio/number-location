@@ -29,10 +29,13 @@ cp .env.example .env
 ```
 Copia y pega tu API kEY de [OpenCage](https://www.opencage.com) en el archivo .env
 
+En el archivo thenumber.py, agrega el número de celular
+
 Para ejecutar el script, se debe ejecutar un ambiente virtual, hay que abrir el prompt de Windows, navegar hasta la dirección en que están contenidos los archivos, y ejecutar:
 
 ```sh
 pipenv shell
 pipenv run numberLocation.py
 ```
-En el archivo thenumber.py, agrega el número de celular
+
+El resultado se visualizará en el archivo Location.html, abrir desde cualquier navegador.
