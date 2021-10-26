@@ -1,4 +1,4 @@
-#Localizar número celular
+# Localizar número celular (no de manera exacta, la API es pública)
 <!-- Sección portada del repositorio -->
 <a href="#">
     <img src="./portada.jpg" />
