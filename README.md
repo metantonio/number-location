@@ -35,5 +35,4 @@ Para ejecutar el script, se debe ejecutar un ambiente virtual, hay que abrir el 
 pipenv shell
 pipenv run numberLocation.py
 ```
-
-```
+En el archivo thenumber.py, agrega el número de celular
