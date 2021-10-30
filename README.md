@@ -39,3 +39,5 @@ pipenv run numberLocation.py
 ```
 
 El resultado se visualizará en el archivo Location.html, abrir desde cualquier navegador.
+
+P.D: La idea inicial de crear este script, era localizar a las personas que se dedican a estafar por mensajería celular con el mensaje "hola soy María, este es mi nuevo número". 
