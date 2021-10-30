@@ -1,9 +1,10 @@
 import phonenumbers
-from thenumber import thenumber
+#from thenumber import thenumber
 import folium
 from phonenumbers import geocoder, carrier
 import os
 
+thenumber=os.environ.get("Number")
 sanNumber = phonenumbers.parse(thenumber)
 
 yourLocation = "country: "+geocoder.description_for_number(sanNumber, "en")

@@ -29,7 +29,7 @@ cp .env.example .env
 ```
 Copia y pega tu API kEY de [OpenCageData](https://opencagedata.com/) en el archivo .env
 
-En el archivo thenumber.py, agrega el número de celular
+En el archivo .env, agrega el número de celular en la variable 'Number'
 
 Para ejecutar el script, se debe ejecutar un ambiente virtual, hay que abrir el prompt de Windows, navegar hasta la dirección en que están contenidos los archivos, y ejecutar:
 
