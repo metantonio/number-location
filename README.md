@@ -27,7 +27,7 @@ Crear un archivo .env:
 ```sh
 cp .env.example .env
 ```
-Copia y pega tu API kEY de [OpenCage](https://www.opencage.com) en el archivo .env
+Copia y pega tu API kEY de [OpenCageData](https://opencagedata.com/) en el archivo .env
 
 En el archivo thenumber.py, agrega el número de celular
 
