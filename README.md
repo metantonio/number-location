@@ -38,6 +38,13 @@ pipenv shell
 pipenv run numberLocation.py
 ```
 
+O ejecutar el archivo `pipenv shell.bat` y luego de abierta la consola, colocar:
+
+```sh
+pipenv run numberLocation.py
+```
+
+
 El resultado se visualizará en el archivo Location.html, abrir desde cualquier navegador.
 
 P.D: La idea inicial de crear este script, era localizar a las personas que se dedican a estafar por mensajería celular con el mensaje "hola soy María, este es mi nuevo número". 
